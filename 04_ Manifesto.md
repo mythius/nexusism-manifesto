@@ -3,11 +3,11 @@
 
 
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 The Arrogance of the Revolutionary: The Nexusism Manifesto - v0.03 Alpha
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+========================================================================
+
+
 
 
 
@@ -76,37 +76,5 @@ It contains symbolism of influencing ideologies. Red of the people and society, 
 
 
 
-  
-
-
-+++
-
-
-
-
-
-
-
-Capital will become faded grandeur like feudal power did in the period during the birth of Capitalism and it's early centuries, at an unknowable rate, as nexuses become powerful in their own right. 
-
-Linus Torvalds is a git (if you think I'm being offensive you haven't searched 'git' recently) fortunately for his sanity he has managed to clone himself on a distributed network, has created evermore collaborative working practices. In fact this document is maintained with git with incremental versions.
-
-
-
-
-
-
-The Irony of Post-Modernism
-===========================
-
-
-
-The Last Days of Modernity and the Further Days of Nexity
-===========================================================
-
-The main failing of modernity is a cultural insensitivity while corroding tradition. However many times modernity reinvents itself for the purposes of cultural acceptance, it remains a rigid vision. Nexity is a fluid challenge to traditions but ultimately maintainable with support of cultural practitioners and admirers of diversity.
-
-
-
-
-
+ 
+ 
